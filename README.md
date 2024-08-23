@@ -23,6 +23,5 @@ Features
     Order history for users
     Admin panel for managing products and orders
 
-
-    ![pp](https://github.com/user-attachments/assets/067be60c-9fdd-4079-8b96-4362e1ae370a)
+![pp](https://github.com/user-attachments/assets/aa771170-8126-41c8-89aa-0cd252b827d6)
 
